@@ -1,0 +1,10 @@
+python-dotenv
+langchain-community
+langchain
+uv
+ipykernel
+langchain_google_genai
+langchain_groq
+langchain_openai
+langchain_huggingface
+langchain_anthropic
